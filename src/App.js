@@ -11,11 +11,11 @@ export default function App() {
         </main>
         <footer className="App-footer">
           This project was coded by Roya Almasimehr and is{" "}
-          <a href="https://github.com/RoyaAlmasimehr/dictionary-project">
+          <a href="https://github.com/RoyaAlmasimehr/shecodes100dictionary">
             open-sourced on Github
           </a>{" "}
           and{" "}
-          <a href="https://dictionary-project200.netlify.app/">
+          <a href="https://react-dictionary120.netlify.app//">
             hosted on Netlify{" "}
           </a>
         </footer>
