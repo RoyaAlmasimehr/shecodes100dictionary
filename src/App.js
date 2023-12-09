@@ -1,8 +1,7 @@
-
-import './App.css';
+import "./App.css";
 
 import Dictionary from "./Dictionary";
-function App() {
+export default function App() {
   return (
     <div className="App">
       <div className="container">
@@ -10,7 +9,6 @@ function App() {
         <main>
           <Dictionary />
         </main>
-
         <footer className="App-footer">
           This project was coded by Roya Almasimehr and is{" "}
           <a href="https://github.com/RoyaAlmasimehr/dictionary-project">
@@ -25,5 +23,3 @@ function App() {
     </div>
   );
 }
-
-export default App;
