@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-
+import Results from "./Results";
 import "./Dictionary.css";
 
 export default function Dictionary(props) {
@@ -47,7 +47,7 @@ export default function Dictionary(props) {
             suggested words: sunset, wine, yoga, plant...
           </div>
         </section>
-    
+        <Results  />
       </div>
     );
   } else {
